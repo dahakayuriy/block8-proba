@@ -1,0 +1,30 @@
+.testimonials__block__title{
+    color: #c09a64;
+    font-family: PT Sans, sans-serif;
+}
+
+.testimonials__block__name{
+    color: #FFFFFF;
+    font: 28px "Playfair Display";
+}
+
+.testimonials__block{
+    background-color:#111111;
+}
+.testimonials__block__text{
+    color: #B8B8B8;
+    font: 17px  PT Sans, sans-serif ;
+}
+.background__grafit{
+    color: #1c1c1c;
+    width:289px;
+    height:520px;
+}
+
+.testimonials__backgroundphoto{
+    display: block;
+    position: relative;
+    width: 447px;
+    height: 438px;
+
+}
