@@ -9,7 +9,7 @@
 }
 
 .testimonials__block{
-    background-color:#111111;
+   
 }
 .testimonials__block__text{
     color: #B8B8B8;
@@ -26,5 +26,26 @@
     position: relative;
     width: 447px;
     height: 438px;
+
+}
+
+.amanda{
+    background-image: url(../img/testimonial-amanda-li.png);
+    position:relative;
+    display: block;
+
+}
+
+.hoe{
+    background-image: url(../img/testimonial-sam-hoe.png);
+    position:relative;
+    display: block;
+
+}
+
+.diana{
+    background-image: url(../img/testimonial-diana-peterson.png);
+    position:relative;
+    display: block;
 
 }
