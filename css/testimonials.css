@@ -1,51 +1,60 @@
-.testimonials__block__title{
-    color: #c09a64;
-    font-family: PT Sans, sans-serif;
-}
-
-.testimonials__block__name{
-    color: #FFFFFF;
-    font: 28px "Playfair Display";
-}
-
 .testimonials__block{
-   
-}
-.testimonials__block__text{
-    color: #B8B8B8;
-    font: 17px  PT Sans, sans-serif ;
-}
-.background__grafit{
-    color: #1c1c1c;
-    width:289px;
-    height:520px;
-}
-
-.testimonials__backgroundphoto{
-    display: block;
+    max-width: 500px;
+    background-color: #1c1c1c;
+    color:#b8b8b8;
+    height: 300px;
+    text-align: left;
+    padding: 30px;
+    font-size: 17px;
     position: relative;
-    width: 447px;
-    height: 438px;
+    left: 180px;
+    top: 220px;
+    
 
+    
 }
 
-.amanda{
+.testimonials__block span{
+    font-size: 14px;
+    color: #c09a64;
+  
+}
+
+.testimonials__block h3{
+font-size: 45px;
+color: #ffffff;
+}
+
+.photo-testimonials-amanda{
+    margin: 0 auto;
+    max-width: 1550px;
+    min-height: 720px;
     background-image: url(../img/testimonial-amanda-li.png);
-    position:relative;
+    background-size: cover;
+    position: relative;
     display: block;
-
+    background-position: 40% 0;
+    
 }
 
-.hoe{
+.photo-testimonials-sam{
+    margin: 0 auto;
+    max-width: 1550px;
+    min-height: 720px;
     background-image: url(../img/testimonial-sam-hoe.png);
-    position:relative;
+    background-size: cover;
+    position: relative;
     display: block;
-
+    background-position: 40% 0;
 }
 
-.diana{
+.photo-testimonials-diana{
+    margin: 0 auto;
+    max-width: 1550px;
+    min-height: 720px;
     background-image: url(../img/testimonial-diana-peterson.png);
-    position:relative;
+    background-size: cover;
+    position: relative;
     display: block;
-
+    background-position: 40% 30%;
 }
